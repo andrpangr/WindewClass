@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1384870231 source:c:\users\andrei\desktop\window class\exampleusingcodeblocks\example\main.cpp
+	"WindowClass.h"
+
+1384870399 c:\users\andrei\desktop\window class\exampleusingcodeblocks\example\windowclass.h
+	<iostream>
+	<windows.h>
+	<windowsx.h>
+	<gl/gl.h>
+	<gl/glu.h>
+
